@@ -1,4 +1,4 @@
-app = "yydfys-proxy"
+app = "yydfys-proxy-2026"
 primary_region = "nrt"
 
 [build]
